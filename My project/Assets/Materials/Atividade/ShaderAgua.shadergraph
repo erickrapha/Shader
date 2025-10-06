@@ -1051,7 +1051,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 300.0,
+    "m_Value": 600.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1375,7 +1375,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.5,
+    "m_Value": 0.009999999776482582,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -1404,8 +1404,8 @@
     "m_ObjectId": "3db704030aff4e9db1c891a575761a04",
     "m_Title": "Water Color",
     "m_Position": {
-        "x": -1045.0,
-        "y": 41.99993896484375
+        "x": -1044.9998779296875,
+        "y": 41.99994659423828
     }
 }
 
@@ -1755,7 +1755,7 @@
         "r": 0.21960660815238954,
         "g": 0.9905660152435303,
         "b": 0.8855304718017578,
-        "a": 0.6745098233222961
+        "a": 0.47058823704719546
     },
     "isMainColor": false,
     "m_ColorMode": 0
@@ -3219,7 +3219,7 @@
         "r": 0.0,
         "g": 0.496065616607666,
         "b": 1.0,
-        "a": 0.3529411852359772
+        "a": 0.05882352963089943
     },
     "isMainColor": false,
     "m_ColorMode": 0
@@ -3709,7 +3709,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 1.5,
+    "m_Value": 1.0,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
