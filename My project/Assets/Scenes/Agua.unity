@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 170204316}
   - component: {fileID: 170204315}
   - component: {fileID: 170204314}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TroncoTorto
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -378,7 +378,7 @@ GameObject:
   - component: {fileID: 400149984}
   - component: {fileID: 400149983}
   - component: {fileID: 400149982}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ArvoreMorta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +609,7 @@ GameObject:
   - component: {fileID: 453626187}
   - component: {fileID: 453626186}
   - component: {fileID: 453626185}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rocha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -717,7 +717,7 @@ GameObject:
   - component: {fileID: 653955971}
   - component: {fileID: 653955970}
   - component: {fileID: 653955969}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LimiteOeste
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -875,7 +875,7 @@ GameObject:
   - component: {fileID: 893045358}
   - component: {fileID: 893045357}
   - component: {fileID: 893045356}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Fundo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -984,7 +984,7 @@ GameObject:
   - component: {fileID: 994898634}
   - component: {fileID: 994898633}
   - component: {fileID: 994898632}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LimiteLeste
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1093,7 +1093,7 @@ GameObject:
   - component: {fileID: 1012625279}
   - component: {fileID: 1012625278}
   - component: {fileID: 1012625277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pedregulho
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1201,7 +1201,7 @@ GameObject:
   - component: {fileID: 1448803431}
   - component: {fileID: 1448803430}
   - component: {fileID: 1448803429}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pedra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1309,7 +1309,7 @@ GameObject:
   - component: {fileID: 1650760610}
   - component: {fileID: 1650760609}
   - component: {fileID: 1650760608}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: ArvoreFina
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1419,7 +1419,7 @@ GameObject:
   - component: {fileID: 1663419371}
   - component: {fileID: 1663419370}
   - component: {fileID: 1663419369}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pedrinha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1527,7 +1527,7 @@ GameObject:
   - component: {fileID: 1713853159}
   - component: {fileID: 1713853158}
   - component: {fileID: 1713853157}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Water
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,7 +1636,7 @@ GameObject:
   - component: {fileID: 2064679275}
   - component: {fileID: 2064679274}
   - component: {fileID: 2064679273}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: TroncoArvore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
