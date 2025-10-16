@@ -3805,8 +3805,8 @@
     "m_ObjectId": "3db704030aff4e9db1c891a575761a04",
     "m_Title": "Water Color",
     "m_Position": {
-        "x": -1116.9998779296875,
-        "y": -224.00021362304688
+        "x": -1117.0,
+        "y": -224.0
     }
 }
 
@@ -4429,7 +4429,7 @@
     "m_ObjectId": "4804bdacfcc04d77a9a9c7f43195afb6",
     "m_Title": "Cloud Effect",
     "m_Position": {
-        "x": -2863.999755859375,
+        "x": -2864.0,
         "y": 1030.0
     }
 }
@@ -5324,7 +5324,7 @@
     "m_Title": "Water Refraction",
     "m_Position": {
         "x": -2159.0,
-        "y": -1009.9999389648438
+        "y": -1010.0
     }
 }
 
@@ -9370,8 +9370,8 @@
     "m_ObjectId": "c78412e3bba6496b9a06356f185cf9f0",
     "m_Title": "Distortion Effect",
     "m_Position": {
-        "x": -2846.999755859375,
-        "y": 2013.0001220703125
+        "x": -2847.0,
+        "y": 2013.0
     }
 }
 
